@@ -1,0 +1,1 @@
+Fot the both NNs Dpropout(p=.2) is used
