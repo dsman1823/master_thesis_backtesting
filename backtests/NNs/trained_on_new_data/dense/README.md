@@ -1,0 +1,1 @@
+* DenseNetFullOpti2(1, 50, 5,  max_weight=1, p=0.2)
