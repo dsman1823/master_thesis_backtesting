@@ -1,0 +1,1 @@
+* RnnNetMinVar2(5,  .15, 'diagonal', 1)
