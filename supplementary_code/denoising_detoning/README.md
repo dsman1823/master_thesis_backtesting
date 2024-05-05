@@ -1,0 +1,1 @@
+This folder contains the code assosiated with https://www.amazon.com.be/-/en/Marcos-M-L%C3%B3pez-Prado/dp/1108792898. Ideas of the book will be extensively used in the thesis.
