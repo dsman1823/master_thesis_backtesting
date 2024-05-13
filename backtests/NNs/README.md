@@ -1,13 +1,13 @@
 # Experiment 1 
-* The model overfitted for period from December 15, 2020, to December 15, 2023 is stored in network_overfitted_periodA.pth.
-* The model overfitted for period from March 19, 2007, to December 15, 2023 is stored in network_overfitted_periodB.pth.
+* The model overfitted for the period from December 15, 2020, to December 15, 2023, is stored in network_overfitted_periodA.pth.
+* The model overfitted for the period from March 19, 2007, to December 15, 2023, is stored in network_overfitted_periodB.pth.
 _____
 # Experiment 2 
 Experiment 2 trained models are stored in trained_on_old_data and trained_on_new_data folders.
-* trained_on_old_data contains models trained for period from January 01, 2007 to December 15, 2020.
-* trained_on_new_data contains models trained for period from January 01, 2007 to December 15, 2023.
+* trained_on_old_data contains models trained for the period from January 01, 2007, to December 15, 2020.
+* trained_on_new_data contains models trained for the period from January 01, 2007, to December 15, 2023.
 
-All the models were trained using the following settings:
+The models were trained using the following settings:
 
 * LstmNetFullOpti3(5,  0.1, 'diagonal', 1)
 * LstmNetMinVar3(5,  .15, None, 1)
